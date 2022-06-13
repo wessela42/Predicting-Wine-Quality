@@ -15,4 +15,4 @@ Quality control and assurance is tantamount for making consistent premium produc
   This presentation summarizes the data wrangling, EDA, modeling, and conclusions for this project.
   
 3. Jupyter Notebook
-  * [Wine Data Notebook](https://github.com/wessela42/Predicting-Wine-Quality/blob/main/Wine_Quality_Analysis.ipynb)
+  * [Wine Data Notebook](https://nbviewer.org/github/wessela42/Predicting-Wine-Quality/blob/f4b74a19da1528908de34ce81e04c2cb2785f3b1/Wine_Quality_Analysis.ipynb)
